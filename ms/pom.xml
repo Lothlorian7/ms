@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>ms</artifactId>
     <description>服务模板</description>
-
+<
     <dependencies>
         <!--web服务-->
         <dependency>
